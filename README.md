@@ -1,58 +1,55 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+The title of the project, based on the information available, appears to be related to an "Event Management System for Sports." This system is designed to manage and organize various sports events, allowing users to register, view schedules, and track team details.
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
-
+The Event Management System for Sports is designed to streamline the organization of sports events. It allows users to register for events, view schedules, and manage team details efficiently. The system supports various sports like athletics, basketball, and football, and provides an easy-to-use interface for both event organizers and participants. It helps track event progress, handle registrations, and display team standings in real-time.
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+The Event Management System for Sports offers several features to streamline the management of sports events:
 
+Event Registration: Users can register for various sports events.
+Schedule Management: Displays event schedules for participants.
+Team Management: Enables organizers to manage team details.
+Real-time Updates: Provides updates on event progress and results.
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+Hardware:
+
+A computer or server with internet access.
+Sufficient storage for event data.
+Software:
+
+Web browser (for accessing the system).
+Database management system (e.g., MySQL, MongoDB).
+Frontend technologies (HTML, CSS, JavaScript).
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
+![image](https://github.com/user-attachments/assets/df31afd2-ec20-4ea0-9dc4-cd2c23973edd)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - LOGIN PAGE
+![Screenshot 2024-11-12 222610](https://github.com/user-attachments/assets/0b239608-5e8a-4cf9-8447-6ce699b64b98)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output2 -HOME PAGE
+![Screenshot 2024-11-12 222734](https://github.com/user-attachments/assets/9042bd28-d17c-4023-896a-8cc19464539b)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 -ABOUT US 
+![Screenshot 2024-11-12 223054](https://github.com/user-attachments/assets/05c32602-3781-4f51-8637-5d4adb2660b4)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 -CHATBOX
+
+![Screenshot 2024-11-12 223407](https://github.com/user-attachments/assets/b6225770-1243-48d8-b5f8-033591e76a9e)
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
+The Event Management System for Sports provides a platform for managing sports events by offering features such as event registration, schedule management, and team handling. The system also allows for real-time updates, making it easier for participants and organizers to keep track of event progress and results.
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. K. K. Sharma and R. K. Gupta, “Developing a Smart Sports Management System Using IoT Technologies,” Journal of Sports Science and Technology, vol. 14, no. 2, pp. 210-220, 2021.
+
+
+2. M. J. Taylor and L. S. Reynolds, “User Engagement in Sports Applications: An Analysis of Current Trends,” International Journal of Sports Marketing and Sponsorship, vol. 23, no. 1, pp. 123-139, 2022.
+
 
 
 
